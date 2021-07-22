@@ -36,6 +36,8 @@ import static java.util.Arrays.asList;
 import static org.springframework.boot.context.properties.source.ConfigurationPropertySources.from;
 
 /**
+ * Spring Boot宽松的DubboConfigBinder实现见
+ *
  * Spring Boot Relaxed {@link DubboConfigBinder} implementation
  * see org.springframework.boot.context.properties.ConfigurationPropertiesBinder
  *
